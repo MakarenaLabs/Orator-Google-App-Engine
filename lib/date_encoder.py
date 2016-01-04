@@ -1,4 +1,4 @@
-__author__ = 'enric_000'
+__author__ = 'Enrico Giordano - MakarenaLabs'
 import datetime
 from time import mktime
 from time import localtime
