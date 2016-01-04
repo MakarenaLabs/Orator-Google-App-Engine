@@ -33,4 +33,5 @@ The "Models" directory contains Entity definition according to ORM Eloquent stan
 ## Credits
 
 This project belongs to MakarenaLabs and source code was written by Enrico Giordano, distributed as CC BY license.
+Original Orator library: https://github.com/sdispater/orator
 
