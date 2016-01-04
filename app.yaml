@@ -1,0 +1,14 @@
+application: #your application#
+#module: #your module#
+version: #your version#
+runtime: python27
+api_version: #your api version#
+threadsafe: yes
+
+handlers:
+- url: .*
+  script: main.bottle
+
+libraries:
+- name: MySQLdb
+  version: "latest"
